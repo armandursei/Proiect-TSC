@@ -32,7 +32,7 @@
 | U5  | MCP73831 | [Link](https://ro.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=yUQqVecv4qvbBQBGbHx0Mw%3D%3D) | [Datasheet](https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/727147.pdf) |
 
 
-# OpenBook e-Reader — Descriere Hardware
+# Descriere Hardware
 ## Introducere
 OpenBook este un dispozitiv e-book reader open-source și accesibil, conceput pentru a oferi o experiență de lectură eficientă și cu consum redus de energie. Proiectarea hardware urmărește obținerea unei soluții robuste, cu interconectări curate și o bună compatibilitate electromagnetică.
 Dispozitivul este construit în jurul microcontroller-ului ESP32-C6, care oferă conectivitate Wi-Fi și Bluetooth Low Energy (BLE), o putere de procesare eficientă și suport extins pentru periferice.
