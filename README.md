@@ -33,6 +33,8 @@
 | U4  | MAX17048G+T10 | [Link](https://www.digikey.ro/en/products/detail/analog-devices-inc-maxim-integrated/MAX17048G-T10/3758921?utm_campaign=buynow&utm_medium=aggregator&utm_source=snapeda) | [Datasheet](https://www.snapeda.com/parts/MAX17048G+T10/Analog%20Devices/datasheet/) |
 | U5  | MCP73831 | [Link](https://ro.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=yUQqVecv4qvbBQBGbHx0Mw%3D%3D) | [Datasheet](https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/727147.pdf) |
 
+## Diagrama Bloc
+![Diagrama](https://github.com/user-attachments/assets/0774b7a9-da51-424e-b41e-c38e8eaed1b8)
 
 # Descriere Hardware
 ![PCB_2](https://github.com/user-attachments/assets/be3a2e44-829d-42e2-9dd6-092f34fe1165)
