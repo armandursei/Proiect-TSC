@@ -1,4 +1,6 @@
 # OpenBook e-Reader 
+![EBook_1](https://github.com/user-attachments/assets/4c42f795-b20b-4e1b-984d-965b176652c8)
+
 ## Bill of Materials (BOM)
 
 | Nume | Componenta | Link Cumpărare | Datasheet |
@@ -33,6 +35,8 @@
 
 
 # Descriere Hardware
+![PCB_2](https://github.com/user-attachments/assets/be3a2e44-829d-42e2-9dd6-092f34fe1165)
+
 ## Introducere
 OpenBook este un dispozitiv e-book reader open-source și accesibil, conceput pentru a oferi o experiență de lectură eficientă și cu consum redus de energie. Proiectarea hardware urmărește obținerea unei soluții robuste, cu interconectări curate și o bună compatibilitate electromagnetică.
 Dispozitivul este construit în jurul microcontroller-ului ESP32-C6, care oferă conectivitate Wi-Fi și Bluetooth Low Energy (BLE), o putere de procesare eficientă și suport extins pentru periferice.
