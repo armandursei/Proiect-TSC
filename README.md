@@ -34,7 +34,8 @@
 | U5  | MCP73831 | [Link](https://ro.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=yUQqVecv4qvbBQBGbHx0Mw%3D%3D) | [Datasheet](https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/727147.pdf) |
 
 ## Diagrama Bloc
-![Diagrama](https://github.com/user-attachments/assets/0774b7a9-da51-424e-b41e-c38e8eaed1b8)
+![svgviewer-png-output](https://github.com/user-attachments/assets/78748718-b253-4fdb-8402-f2503a605407)
+
 
 # Descriere Hardware
 ![PCB_2](https://github.com/user-attachments/assets/be3a2e44-829d-42e2-9dd6-092f34fe1165)
