@@ -1,0 +1,12 @@
+# EAGLE / Fusion Electronics backups and lock files
+*.b#[0-9]
+*.s#[0-9]
+*.l#[0-9]
+*.lck
+*.bak
+
+# OS and archive junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
